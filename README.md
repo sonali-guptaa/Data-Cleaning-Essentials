@@ -1,4 +1,4 @@
-# oibsip_level_1_project_3
+# data-cleaning-essentials
 This project delves into the essential world of data cleaning, equipping you with the skills to transform messy datasets into reliable sources for analysis. You'll explore various techniques to eliminate errors, inconsistencies, and missing values, ultimately preparing data for robust exploration and modeling.
 
 ## Datasets
